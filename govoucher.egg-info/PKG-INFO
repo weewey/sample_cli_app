@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: govoucher
+Version: 0.0.1
+Summary: A trial of using docopt and understanding python projectstructure
+Home-page: UNKNOWN
+Author: Yew Wee
+Author-email: ychua@thoughtworks.com
+License: UNKNOWN
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
